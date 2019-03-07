@@ -22,4 +22,4 @@ python manage.py runserver
 
 https://regressor.herokuapp.com/
 
-![sample-img](https://imgur.com/bqWrXTs)
+![sample-img](https://i.imgur.com/bqWrXTs.png)
