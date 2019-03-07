@@ -22,4 +22,6 @@ python manage.py runserver
 
 https://regressor.herokuapp.com/
 
+Click 'stop' to stop the learning and get the values of slope(m) and y intercept(b).
+
 ![sample-img](https://i.imgur.com/bqWrXTs.png)
